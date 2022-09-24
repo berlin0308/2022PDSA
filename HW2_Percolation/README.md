@@ -17,7 +17,6 @@ if(!RECORDED){
                   Point2D point = new Point2D(x, y);
                   PercoPoints.add(point);
                   RECORDED = true;
-
                }
             }
          }
